@@ -1,0 +1,30 @@
+# vercel-guard: never upload secrets, notes, source maps or scripts
+.env
+.env.*
+*.map
+*.bak
+*.old
+*.orig
+*.swp
+*.log
+*.sql
+*.sqlite
+*.db
+*.zip
+*.tar*
+*.py
+*.ps1
+*.sh
+*.md
+README*
+NOTES*
+TODO*
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+work
+src-notes
+
+# the live social feed is a server function, not a script to hide
+!api/social.py

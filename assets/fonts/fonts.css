@@ -1,0 +1,6 @@
+/* English fonts from Mazen's Trifid design kit (Mazen Mind/Attachments/Design/kit/deck/fonts), both SIL Open Font License:
+   League Spartan (variable 100-900) for display, Open Sauce One for text. Arabic keeps Reem Kufi + Tajawal. */
+@font-face{font-family:"League Spartan";font-weight:100 900;font-display:swap;src:url(league-spartan-var.woff2) format("woff2")}
+@font-face{font-family:"Open Sauce One";font-weight:300;font-display:swap;src:url(open-sauce-one-300.woff2) format("woff2")}
+@font-face{font-family:"Open Sauce One";font-weight:400 500;font-display:swap;src:url(open-sauce-one-400.woff2) format("woff2")}
+@font-face{font-family:"Open Sauce One";font-weight:600 700;font-display:swap;src:url(open-sauce-one-700.woff2) format("woff2")}
